@@ -39,14 +39,28 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 ### Questions
 
-- [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
-- [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- [x] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
+
+Cause:
+I noticed a lack of platforms where music enthusiasts could easily discover an artist’s top albums based on popularity.
+
+Action:
+I developed a website that helps users discover an artist's top albums ordered by popularity based on Last.fm listeners. Users can search for their favorite artists and explore detailed album information.
+
+Result:
+The website received positive feedback for its convenience and comprehensive information.
+
+- [x] Tell me about a time you had to work on several projects at once. How did you handle this?
+
+Cause:
+At college, I had to manage several academic projects and study additional content independently.
+
+Action:
+I created a detailed schedule to prioritize tasks, allocated specific time slots, and used productivity tools to track progress.
+
+Result:
+I completed all my projects on time and mastered the additional content.
+
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
   - **Cause:**
   - **Action:**
