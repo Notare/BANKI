@@ -61,10 +61,17 @@ I created a detailed schedule to prioritize tasks, allocated specific time slots
 Result:
 I completed all my projects on time and mastered the additional content.
 
-- [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- [x] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
+
+Cause:
+At my last opportunity as an intern, I was tasked with creating a new spreadsheet, but the information provided was not clear enough.
+
+Action:
+I recognized the need for better communication, so I approached my supervisor to clarify the requirements. I asked specific questions to ensure I fully understood what was needed.
+
+Result:
+This proactive communication allowed me to create an accurate and effective spreadsheet. It improved my understanding of the task and strengthened my relationship with my supervisor, highlighting the importance of seeking clarity when needed.
+
 - [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
   - **Cause:**
   - **Action:**
