@@ -72,38 +72,79 @@ I recognized the need for better communication, so I approached my supervisor to
 Result:
 This proactive communication allowed me to create an accurate and effective spreadsheet. It improved my understanding of the task and strengthened my relationship with my supervisor, highlighting the importance of seeking clarity when needed.
 
-- [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- [x] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
+
+Cause:
+During my internship, there was a conflict within our team about the approach to optimizing our data workflows.
+
+Action:
+I casually talked to each team member to understand their perspectives and concerns. Through these conversations, I facilitated an informal agreement on a hybrid approach that combined the best ideas from everyone.
+
+Result:
+The conflict was resolved, and we developed an efficient workflow that the entire team supported. This experience enhanced my conflict resolution and communication skills.
+
+How I Would Handle It Now:
+I would still encourage open dialogue and early intervention to resolve conflicts informally and collaboratively, ensuring everyone feels heard and valued.
+
 - [ ] Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
   - **Cause:**
   - **Action:**
   - **Result:**
-- [ ] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
-- [ ] Give an example of an important project goal you reached and how you achieved it.
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- [x] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
+
+Cause:
+I worked diligently on a project to create a website that helps users discover an artist's top albums based on popularity from Last.fm.
+
+Action:
+While the website was functional, some parts of the code could have been optimized further. I had to prioritize functionality over optimization due to tight deadlines.
+
+Result:
+The website worked well, but with more time, the code could have been more efficient and maintainable.
+
+What I Learned:
+I learned the importance of balancing deadlines with code quality, and in the future, I would allocate more time for optimization and refactoring.
+
+- [x] Give an example of an important project goal you reached and how you achieved it.
+
+Cause:
+At my last company, I aimed to create a website that helps users discover an artist's top albums based on popularity from Last.fm.
+
+Action:
+I meticulously planned the project, ensuring I understood the Last.fm API and designing a user-friendly interface. I implemented the necessary features and conducted thorough testing to ensure functionality and accuracy.
+
+Result:
+The website was successfully launched, receiving positive feedback from users for its ease of use and comprehensive information. This achievement showcased my ability to plan, execute, and deliver a complex project effectively.
+
 - [ ] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
   - **Cause:**
   - **Action:**
   - **Result:**
-- [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- [x] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
+
+Cause:
+For my own project, I planned the development of a website to help users discover an artist's top albums based on Last.fm listeners.
+
+Action:
+I created a detailed project plan with timelines and milestones.
+
+Result:
+Some information in the Last.fm API documentation was outdated, causing delays. After conducting additional research, I adjusted the code to work correctly. This experience highlighted the importance of adaptability and thorough research in project planning.
+
 - [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
   - **Cause:**
   - **Action:**
   - **Result:**
-- [ ] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- [x] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
+
+Cause:
+During a group project in college, one member was not completing his share of the tasks.
+
+Action:
+I spoke directly with him to understand if he was facing any difficulties with the tasks. I offered assistance and clarified the expectations to help him complete his work.
+
+Result:
+He appreciated the support and improved his contributions to the project. The situation was resolved without needing to escalate it to our teacher. This experience taught me the value of addressing issues directly and offering help to ensure team success.
+
 - [ ] Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
   - **Cause:**
   - **Action:**
