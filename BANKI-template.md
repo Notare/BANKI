@@ -146,17 +146,24 @@ Result:
 He appreciated the support and improved his contributions to the project. The situation was resolved without needing to escalate it to our teacher. This experience taught me the value of addressing issues directly and offering help to ensure team success.
 
 - [ ] Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
-- [ ] Tell me about yourself.
-  - **Cause:**
-  - **Action:**
-  - **Result:**
-- [ ] Tell me about your experience at 100Devs.
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+
+Cause:
+When I worked as a Computer Laboratory Monitor, I had to give my first private class on Microsoft Word, which put me under significant pressure as I wanted to deliver a high-quality lesson.
+
+Action:
+To prepare, I thoroughly reviewed the course material and anticipated possible questions. During the class, I remained calm and focused, ensuring I explained concepts clearly and addressed any doubts promptly.
+
+Result:
+The class went smoothly, and the student was satisfied with the lesson. Working under pressure helped me improve my teaching skills and boosted my confidence in delivering private classes.
+
+- [x] Tell me about yourself.
+
+My interest in computing and technology started in my teenage years when I got my first computer, I started playing online games and using programs and always wondered: "How are these games and programs made?", I even used to create servers for a game, but nothing more than that. I don't know why but, at that time people said that the IT area wasn't worth it and I also didn't imagine that I could work in programming so I ended up choosing to study business administration because I had relatives who worked in the area, obviously it didn't work out very well, I decided to interrupt the course and it was when the pandemic came that I decided to think better about what I really wanted to do and I realized that the IT area was always what I should have focused on from the beginning and that's when I started to study programming.
+
+- [x] Tell me about your experience at 100Devs.
+
+100Devs is an agency with a training program. I worked on several projects both alone and with colleagues to better flesh out my skills. The main tech stack we used with React, Node, Express and MongoDB.
+
 - [ ] What do you know about our company?
   - **Cause:**
   - **Action:**
@@ -169,10 +176,10 @@ He appreciated the support and improved his contributions to the project. The si
   - **Cause:**
   - **Action:**
   - **Result:**
-- [ ] Tell me about your dream job?  What do you really want to do with your career?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- [x] Tell me about your dream job?  What do you really want to do with your career?
+
+My dream job is to help people through technology. I want to create innovative solutions that solve real-world problems and improve lives. My goal is to continuously learn and grow while contributing to projects that make technology accessible and beneficial for everyone.
+
 - [ ] Tell me a time when you failed.
   - **Cause:**
   - **Action:**
