@@ -125,7 +125,7 @@ Cause:
 For my own project, I planned the development of a website to help users discover an artist's top albums based on Last.fm listeners.
 
 Action:
-I created a detailed project plan with timelines and milestones.
+I created a detailed project plan with ines and milestones.
 
 Result:
 Some information in the Last.fm API documentation was outdated, causing delays. After conducting additional research, I adjusted the code to work correctly. This experience highlighted the importance of adaptability and thorough research in project planning.
@@ -178,24 +178,27 @@ My interest in computing and technology started in my teenage years when I got m
   - **Result:**
 - [x] Tell me about your dream job?  What do you really want to do with your career?
 
-My dream job is to help people through technology. I want to create innovative solutions that solve real-world problems and improve lives. My goal is to continuously learn and grow while contributing to projects that make technology accessible and beneficial for everyone.
+My dream job is one that allows me to help people through technology. I want to create innovative solutions that solve real-world problems and improve lives. My goal is to continuously learn and grow while contributing to projects that make technology accessible and beneficial for everyone.
 
 - [ ] Tell me a time when you failed.
   - **Cause:**
   - **Action:**
   - **Result:**
-- [ ] What do you read on a regular basis?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
-- [ ] What's some critical feedback you've gotten recently?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- [x] What do you read on a regular basis?
+
+I regularly read tech blogs and industry news to stay updated on the latest developments in web development and programming to continuously improve my skills and knowledge. Additionally, I keep up with online forums and communities where developers share insights.
+
+- [x] What's some critical feedback you've gotten recently?
+
+My college group provided feedback that working with me was always a pleasant surprise. They noted that I often delivered more than expected and stood out in technical terms. I was one of the first to be contacted when material needed to be delivered, and my contributions greatly aided the group's success. They also mentioned that part of what they learned was thanks to me, highlighting my ease in mastering technical aspects.
+
 - [ ] Do you have any questions?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- What is the interview process like? What is the ine?
+- What are some of the challenges for the person in this position?
+- What is a typical day in this position?
+- What is the onboarding process after the offer?
+- Are there training programs available?
+
 
 ## Technical Questions
 
