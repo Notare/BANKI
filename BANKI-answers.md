@@ -41,27 +41,27 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [x] B1) Give me an example of a project or initiative that you started on your own. What prompted you to get started?
 
-  - **Cause:** At a previous company we had project managers assigned to several different teams where workload would fluctuate quite a bit.
-  - **Action:** I noticed an opportunity to flatten the workload of the PM's, by creating a shared PM pool.
-  - **Result:** This was possible by running a high level kanban of all projects assigned by PM to get visibility to workload. It also allowed knowledge sharing such that it was much easier for a PM to step in on any given team.
+  - **Cause:** I noticed a lack of platforms where music enthusiasts could easily discover an artist’s top albums based on popularity.
+  - **Action:** I developed a website that helps users discover an artist's top albums ordered by popularity based on Last.fm listeners. Users can search for their favorite artists and explore detailed album information.
+  - **Result:** The website received positive feedback for its convenience and comprehensive information.
 
 - [x] B2) Tell me about a time you had to work on several projects at once. How did you handle this?
 
-  - **Cause:** I was working on two large projects for two separate clients that were at different stages of their lifecycle. One project was in production and the other project was in the implementation phase.
-  - **Action:** I decided to send a less experienced colleague to the installation site while I went to do a production check-in on the other project in China. Prior to leaving I briefed my colleague in on the project and told them what to look out for.
-  - **Result:** While in China I had daily calls with my colleague as well as received daily photo reports to review the installation. Both projects end up being financially successful. The tight communication and teamwork is ultimately what allowed it to be so.
+  - **Cause:** At college, I had to manage several academic projects and study additional content independently.
+  - **Action:** I created a detailed schedule to prioritize tasks, allocated specific time slots, and used productivity tools to track progress.
+  - **Result:** I completed all my projects on time and mastered the additional content, enhancing my time management and multitasking skills.
 
 - [x] B3) Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
 
-  - **Cause:** I had a direct report working on building a client quote within a spreadsheet template.
-  - **Action:** I explained to them how to use and fill out the template and then left them to finish it.
-  - **Result:** After a few hours I came to see what the final result was and found that they only partially completed it and had many mistakes. What I did then and with subsequent reports was to have them work on the quote in front of me for 30 minutes so that I could guide them and allow them to ask question. I found that technique brought people up to speed more quickly.
+  - **Cause:** At my last opportunity as an intern, I was tasked with creating a new spreadsheet, but the information provided was not clear enough.
+  - **Action:** I recognized the need for better communication, so I approached my supervisor to clarify the requirements. I asked specific questions to ensure I fully understood what was needed.
+  - **Result:** This proactive communication allowed me to create an accurate and effective spreadsheet. It improved my understanding of the task and strengthened my relationship with my supervisor, highlighting the importance of seeking clarity when needed.
 
 - [x] B4) Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
 
-  - **Cause:** We had a rollout of shipments going on in which the schedule was tight. For the goods to come in, get assembled and leave the warehouse "orders" needed to be created in our ERP system which was a particular team members responsibility. I requested several times that they be created, but by the day in which they had to be created to not affect timing they were still not done.
-  - **Action:** I gathered the team member along with two others on our team to discuss the issue. I explained the urgency of the matter along with the tasks that needed to be completed and when. I have to admit I had a rather frustrated demeanor. The responsible team member said they couldn't do it. I suggested that they build one order with all of us there and perhaps we could split the work.
-  - **Result:** The orders ended up mostly being done by the responsible team member once they realized I'd provided the information in a clear to follow format. I apologized for for my foul attitude. I learned that I should've had more present and active communication with a team member that is responsible for the next task in the workflow rather than "throwing" the task over the fence per se.
+  - **Cause:** During my internship, there was a conflict within our team about the approach to optimizing our data workflows.
+  - **Action:** I casually talked to each team member to understand their perspectives and concerns. Through these conversations, I facilitated an informal agreement on a hybrid approach that combined the best ideas from everyone.
+  - **Result:** The conflict was resolved, and we developed an efficient workflow that the entire team supported. This experience enhanced my conflict resolution and communication skills. I would still encourage open dialogue and early intervention to resolve conflicts informally and collaboratively, ensuring everyone feels heard and valued.
 
 - [ ] B5) Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
 
@@ -69,18 +69,17 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** 
   - **Result:** 
 
-- [ ] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
+- [x] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:** I worked on a project to create a website that helps users discover an artist's top albums based on popularity from Last.fm.
+  - **Action:** While the website was functional, some parts of the code could have been optimized further. I had to prioritize functionality over optimization due to tight deadlines.
+  - **Result:** The website worked well, but with more time, the code could have been more efficient and maintainable. I learned the importance of balancing deadlines with code quality, and in the future, I would allocate more time for optimization and refactoring.
 
 - [ ] B7) Give an example of an important project goal you reached and how you achieved it.
 
-
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - **Cause:** In one of my projects, I aimed to create a website that helps users discover an artist's top albums based on popularity from Last.fm.
+  - **Action:** I meticulously planned the project, ensuring I understood the Last.fm API and designing a user-friendly interface. I implemented the necessary features and conducted thorough testing to ensure functionality and accuracy.
+  - **Result:** The website was successfully launched, receiving positive feedback from users for its ease of use and comprehensive information. This achievement showcased my ability to plan, execute, and deliver a complex project effectively.
 
 - [ ] B8) Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?
 
@@ -91,9 +90,9 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [x] B9) Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
 
-  - **Cause:** Projects never go exactly to plan! I think one of the worst experiences I had was working on a set of brand new prototypes got a client that had a clear powder coat over steel, which is notoriously hard to produce. I was using a newer supplier to see if they could nail it, but after three tries they could not.
-  - **Action:** I made the call to split some of the more important pieces out to a different supplier which had been successful in the past, but cost significantly more. I then worked with the newer supplier to look at their powder coating process and identify area's that were causing issues (pre-powder cleaning was the main culprit).
-  - **Result:** I was able to deliver 95% of the parts to the client for review and was able to convince them that we were resolving some issues with other pieces and all would be fine. I was able to help the supplier adjust their cleaning process so that when final production started the QC rejection rate went from 75% on the prototypes to less than 5% on production. It sounds like a lot, but for the industry and process it was rather good.
+  - **Cause:** In one of my projects, I planned the development of a website to help users discover an artist's top albums based on Last.fm listeners.
+  - **Action:** I created a detailed project plan with timelines and milestones.
+  - **Result:** Some information in the Last.fm API documentation was outdated, causing delays. After conducting additional research, I adjusted the code to work correctly. This experience highlighted the importance of adaptability and thorough research in project planning.
 
 - [ ] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
 
@@ -102,24 +101,21 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** 
   - **Result:** 
 
-- [ ] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
+- [x] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
 
+  - **Cause:** During a group project in college, one member was not completing his share of the tasks.
+  - **Action:** I spoke directly with him to understand if he was facing any difficulties with the tasks. I offered assistance and clarified the expectations to help him complete his work.
+  - **Result:** He appreciated the support and improved his contributions to the project. The situation was resolved without needing to escalate it to our teacher. This experience taught me the value of addressing issues directly and offering help to ensure team success.
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B12) Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
 
-- [ ] B12) Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
+  - **Cause:** When I worked as a Computer Laboratory Monitor, I had to give my first private class on Microsoft Word, which put me under significant pressure as I wanted to deliver a high-quality lesson.
+  - **Action:** To prepare, I thoroughly reviewed the course material and anticipated possible questions. During the class, I remained calm and focused, ensuring I explained concepts clearly and addressed any doubts promptly.
+  - **Result:** The class went smoothly, and the student was satisfied with the lesson. Working under pressure helped me improve my teaching skills and boosted my confidence in delivering private classes.
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B13) Tell me about yourself.
 
-- [ ] B13) Tell me about yourself.
-
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+   - My interest in computing and technology started when I got my first computer as a child, I started playing online games and using programs and always wondered how those games and programs were made, I even used to create servers for a game, but nothing more than that. At that time, I didn't imagine that I could work with programming so I ended up choosing to study business administration just because I had relatives who worked in the area. Obviously it didn't work out very well so I decided to interrupt the course and it was when the pandemic came that I decided to think better about what I really wanted to about my professional career, I realized that the IT area was always what I should have focused on from the beginning and that's when I started to study programming.
 
 - [x] B14) Tell me about your experience at 100Devs.
 
@@ -145,11 +141,9 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** 
   - **Result:** 
 
-- [ ] B18) Tell me about your dream job?  What do you really want to do with your career?
+- [x] B18) Tell me about your dream job?  What do you really want to do with your career?
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+   - My dream job is one that allows me to help people through technology. I want to create innovative solutions that solve real-world problems and improve lives. My goal is to continuously learn and grow while contributing to projects that make technology accessible and beneficial for everyone.
 
 - [ ] B19) Tell me a time when you failed.
 
@@ -158,21 +152,20 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:** 
 
 - [x] B20) What do you read on a regular basis?
-  - I tend to go through phases of topics. Recently I've been reading various books on Data Structures & Algorithms along with books about Design/Graphic Design. I'll also typically read about the natural world (plant/animal species identification, geology, environmental issues), history (particularly Pacific Northwest and Japan), architecture and travel writing. I'm a huge fan of our public library system and I regularly use it.
+      
+  - I regularly read tech blogs and industry news to stay updated on the latest developments in web development and programming to continuously improve my skills and knowledge. Additionally, I keep up with online forums and communities where developers share insights.
 
-- [ ] B21) What's some critical feedback you've gotten recently?
+- [x] B21) What's some critical feedback you've gotten recently?
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - My college group provided feedback that working with me was always a pleasant surprise. They noted that I often delivered more than expected and stood out in technical terms. I was one of the first to be contacted when material needed to be delivered, and my contributions greatly aided the group's success. They also mentioned that part of what they learned was thanks to me, highlighting my ease in mastering technical aspects.
   
 
 - [ ] B22) Do you have any questions?
-- What is the interview process like? What is the timeline?
-- What are some of the challenges for the person in this position?
-- What is a typical day in this position?
-- What is the onboarding process after the offer?
-- Are there training programs available?
+   - What is the interview process like? What is the timeline?
+   - What are some of the challenges for the person in this position?
+   - What is a typical day in this position?
+   - What is the onboarding process after the offer?
+   - Are there training programs available?
 
 ## Technical Questions
 
