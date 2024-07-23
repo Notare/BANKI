@@ -39,131 +39,62 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 ### Questions
 
-- [x] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
-
-Cause:
-I noticed a lack of platforms where music enthusiasts could easily discover an artist’s top albums based on popularity.
-
-Action:
-I developed a website that helps users discover an artist's top albums ordered by popularity based on Last.fm listeners. Users can search for their favorite artists and explore detailed album information.
-
-Result:
-The website received positive feedback for its convenience and comprehensive information.
-
-- [x] Tell me about a time you had to work on several projects at once. How did you handle this?
-
-Cause:
-At college, I had to manage several academic projects and study additional content independently.
-
-Action:
-I created a detailed schedule to prioritize tasks, allocated specific time slots, and used productivity tools to track progress.
-
-Result:
-I completed all my projects on time and mastered the additional content.
-
-- [x] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-
-Cause:
-At my last opportunity as an intern, I was tasked with creating a new spreadsheet, but the information provided was not clear enough.
-
-Action:
-I recognized the need for better communication, so I approached my supervisor to clarify the requirements. I asked specific questions to ensure I fully understood what was needed.
-
-Result:
-This proactive communication allowed me to create an accurate and effective spreadsheet. It improved my understanding of the task and strengthened my relationship with my supervisor, highlighting the importance of seeking clarity when needed.
-
-- [x] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
-
-Cause:
-During my internship, there was a conflict within our team about the approach to optimizing our data workflows.
-
-Action:
-I casually talked to each team member to understand their perspectives and concerns. Through these conversations, I facilitated an informal agreement on a hybrid approach that combined the best ideas from everyone.
-
-Result:
-The conflict was resolved, and we developed an efficient workflow that the entire team supported. This experience enhanced my conflict resolution and communication skills.
-
-How I Would Handle It Now:
-I would still encourage open dialogue and early intervention to resolve conflicts informally and collaboratively, ensuring everyone feels heard and valued.
-
+- [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+- [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+- [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+- [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 - [ ] Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
   - **Cause:**
   - **Action:**
   - **Result:**
-- [x] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
-
-Cause:
-I worked diligently on a project to create a website that helps users discover an artist's top albums based on popularity from Last.fm.
-
-Action:
-While the website was functional, some parts of the code could have been optimized further. I had to prioritize functionality over optimization due to tight deadlines.
-
-Result:
-The website worked well, but with more time, the code could have been more efficient and maintainable.
-
-What I Learned:
-I learned the importance of balancing deadlines with code quality, and in the future, I would allocate more time for optimization and refactoring.
-
-- [x] Give an example of an important project goal you reached and how you achieved it.
-
-Cause:
-At my last company, I aimed to create a website that helps users discover an artist's top albums based on popularity from Last.fm.
-
-Action:
-I meticulously planned the project, ensuring I understood the Last.fm API and designing a user-friendly interface. I implemented the necessary features and conducted thorough testing to ensure functionality and accuracy.
-
-Result:
-The website was successfully launched, receiving positive feedback from users for its ease of use and comprehensive information. This achievement showcased my ability to plan, execute, and deliver a complex project effectively.
-
+- [ ] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+- [ ] Give an example of an important project goal you reached and how you achieved it.
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 - [ ] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
   - **Cause:**
   - **Action:**
   - **Result:**
-- [x] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
-
-Cause:
-For my own project, I planned the development of a website to help users discover an artist's top albums based on Last.fm listeners.
-
-Action:
-I created a detailed project plan with ines and milestones.
-
-Result:
-Some information in the Last.fm API documentation was outdated, causing delays. After conducting additional research, I adjusted the code to work correctly. This experience highlighted the importance of adaptability and thorough research in project planning.
-
+- [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 - [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
   - **Cause:**
   - **Action:**
   - **Result:**
-- [x] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
-
-Cause:
-During a group project in college, one member was not completing his share of the tasks.
-
-Action:
-I spoke directly with him to understand if he was facing any difficulties with the tasks. I offered assistance and clarified the expectations to help him complete his work.
-
-Result:
-He appreciated the support and improved his contributions to the project. The situation was resolved without needing to escalate it to our teacher. This experience taught me the value of addressing issues directly and offering help to ensure team success.
-
+- [ ] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 - [ ] Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
-
-Cause:
-When I worked as a Computer Laboratory Monitor, I had to give my first private class on Microsoft Word, which put me under significant pressure as I wanted to deliver a high-quality lesson.
-
-Action:
-To prepare, I thoroughly reviewed the course material and anticipated possible questions. During the class, I remained calm and focused, ensuring I explained concepts clearly and addressed any doubts promptly.
-
-Result:
-The class went smoothly, and the student was satisfied with the lesson. Working under pressure helped me improve my teaching skills and boosted my confidence in delivering private classes.
-
-- [x] Tell me about yourself.
-
-My interest in computing and technology started in my teenage years when I got my first computer, I started playing online games and using programs and always wondered: "How are these games and programs made?", I even used to create servers for a game, but nothing more than that. I don't know why but, at that time people said that the IT area wasn't worth it and I also didn't imagine that I could work in programming so I ended up choosing to study business administration because I had relatives who worked in the area, obviously it didn't work out very well, I decided to interrupt the course and it was when the pandemic came that I decided to think better about what I really wanted to do and I realized that the IT area was always what I should have focused on from the beginning and that's when I started to study programming.
-
-- [x] Tell me about your experience at 100Devs.
-
-100Devs is an agency with a training program. I worked on several projects both alone and with colleagues to better flesh out my skills. The main tech stack we used with React, Node, Express and MongoDB.
-
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+- [ ] Tell me about yourself.
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+- [ ] Tell me about your experience at 100Devs.
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 - [ ] What do you know about our company?
   - **Cause:**
   - **Action:**
@@ -176,29 +107,26 @@ My interest in computing and technology started in my teenage years when I got m
   - **Cause:**
   - **Action:**
   - **Result:**
-- [x] Tell me about your dream job?  What do you really want to do with your career?
-
-My dream job is one that allows me to help people through technology. I want to create innovative solutions that solve real-world problems and improve lives. My goal is to continuously learn and grow while contributing to projects that make technology accessible and beneficial for everyone.
-
+- [ ] Tell me about your dream job?  What do you really want to do with your career?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 - [ ] Tell me a time when you failed.
   - **Cause:**
   - **Action:**
   - **Result:**
-- [x] What do you read on a regular basis?
-
-I regularly read tech blogs and industry news to stay updated on the latest developments in web development and programming to continuously improve my skills and knowledge. Additionally, I keep up with online forums and communities where developers share insights.
-
-- [x] What's some critical feedback you've gotten recently?
-
-My college group provided feedback that working with me was always a pleasant surprise. They noted that I often delivered more than expected and stood out in technical terms. I was one of the first to be contacted when material needed to be delivered, and my contributions greatly aided the group's success. They also mentioned that part of what they learned was thanks to me, highlighting my ease in mastering technical aspects.
-
+- [ ] What do you read on a regular basis?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+- [ ] What's some critical feedback you've gotten recently?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 - [ ] Do you have any questions?
-- What is the interview process like? What is the ine?
-- What are some of the challenges for the person in this position?
-- What is a typical day in this position?
-- What is the onboarding process after the offer?
-- Are there training programs available?
-
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 ## Technical Questions
 
